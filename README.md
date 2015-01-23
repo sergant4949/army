@@ -1,7 +1,7 @@
 # army
 Small game for testing RPG classes.
 
-Working on *nix (for cursor positioning was used ANSI sequences).
+Working on *nix console (for cursor positioning was used ANSI sequences).
 Uses management from the command line.
 
 Commands:
